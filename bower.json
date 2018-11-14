@@ -1,0 +1,23 @@
+{
+  "name": "heo kute",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Phi nguyen"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "haha"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
